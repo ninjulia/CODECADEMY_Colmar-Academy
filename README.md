@@ -22,11 +22,11 @@ Build a one page website from the provided wireframes featuring mobile and deskt
 
 ### Screenshot
 
-~~![screenshot](https://ninjulia.github.io/jammming/screenshot.png)~~
+![screenshot](https://github.com/ninjulia/CODECADEMY_Colmar_Academy/screenshot.png)
 
 ### Links
 
-- Solution URL: [https://github.com/ninjulia/CODECADEMY_Colmar_Academy](https://github.com/ninjulia/CODECADEMY_Colmar_Academy)
+- Solution URL: [https://github.com/ninjulia/CODECADEMY_Colmar_Academy/](https://github.com/ninjulia/CODECADEMY_Colmar_Academy/)
 - Live Site URL: [https://ninjulia.github.io/CODECADEMY_Colmar_Academy/](https://ninjulia.github.io/CODECADEMY_Colmar_Academy/)
 
 ## My process
