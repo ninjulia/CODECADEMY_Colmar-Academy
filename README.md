@@ -22,7 +22,7 @@ Build a one page website from the provided wireframes featuring mobile and deskt
 
 ### Screenshot
 
-![screenshot](https://github.com/ninjulia/CODECADEMY_Colmar_Academy/screenshot.png)
+![screenshot](./screenshot.png?raw=true)
 
 ### Links
 
