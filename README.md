@@ -22,7 +22,7 @@ Build a one page website from the provided wireframes featuring mobile and deskt
 
 ### Screenshot
 
-![screenshot](./screenshot.png?raw=true)
+![screenshot](./screenshot.PNG?raw=true)
 
 ### Links
 
