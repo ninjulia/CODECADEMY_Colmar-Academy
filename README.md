@@ -18,16 +18,16 @@ This is a solution to the [Colmar Academy Landing page from Codecademy](https://
 
 ### The challenge
 
-Build a one page website from the provided wireframes featuring mobile and desktop views. ![Provided image:](colmar-academy-spec.png)
+Build a one page website from the provided wireframes featuring mobile and desktop views.
 
 ### Screenshot
 
-[screenshot](https://ninjulia.github.io/jammming/screenshot.png)
+~~![screenshot](https://ninjulia.github.io/jammming/screenshot.png)~~
 
 ### Links
 
-- Solution URL: [https://github.com/ninjulia/jammming](https://github.com/ninjulia/colmar_academy/)
-- Live Site URL: [https://github.io/ninjulia/colmar_academy/](https://github.io/ninjulia/colmar_academy/)
+- Solution URL: [https://github.com/ninjulia/CODECADEMY_Colmar_Academy](https://github.com/ninjulia/CODECADEMY_Colmar_Academy)
+- Live Site URL: [https://ninjulia.github.io/CODECADEMY_Colmar_Academy/](https://ninjulia.github.io/CODECADEMY_Colmar_Academy/)
 
 ## My process
 
