@@ -26,8 +26,8 @@ Build a one page website from the provided wireframes featuring mobile and deskt
 
 ### Links
 
-- Solution URL: [https://github.com/ninjulia/CODECADEMY_Colmar_Academy/](https://github.com/ninjulia/CODECADEMY_Colmar_Academy/)
-- Live Site URL: [https://ninjulia.github.io/CODECADEMY_Colmar_Academy/](https://ninjulia.github.io/CODECADEMY_Colmar_Academy/)
+- Solution URL: [https://github.com/ninjulia/CODECADEMY_Colmar-Academy/](https://github.com/ninjulia/CODECADEMY_Colmar-Academy/)
+- Live Site URL: [https://ninjulia.github.io/CODECADEMY_Colmar-Academy/](https://ninjulia.github.io/CODECADEMY_Colmar-Academy/)
 
 ## My process
 
